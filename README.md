@@ -1,7 +1,7 @@
 ### Oii, eu sou a Brenda!
 
 - 🔭 Atualmente trabalho como Auxiliar Administrativo
-- 🌱 Estou no 4º semestre de Ciência da Computação - UniRitter
+- 🌱 Estou no 4º semestre de **Ciência da Computação - UniRitter**
 - 👯 Estou em busca do meu primeiro emprego na área de T.I
 - 😄 Pronouns: Ela/Dela
 - ⚡ Já tenho conhecimentos em Python, C, C++, Java, estou estudando Banco de Dados(SGBD) e Gestão e Qualidade de Software
