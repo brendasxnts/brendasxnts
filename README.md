@@ -1,6 +1,6 @@
 ### Oii, eu sou a Brenda!
 
-- 🌱 Estou no 5º semestre de **Ciência da Computação - UniRitter**
+- 🌱 Estou no 6º semestre de **Ciência da Computação - UniRitter**
 - 👯 Estou em busca do meu primeiro emprego na área de T.I
 - 😄 Pronomes: Ela/Dela
 - ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, QA, Automações, selenium
