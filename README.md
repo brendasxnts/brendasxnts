@@ -3,11 +3,10 @@
 - 🌱 Estou no 5º semestre de **Ciência da Computação - UniRitter**
 - 👯 Estou em busca do meu primeiro emprego na área de T.I
 - 😄 Pronomes: Ela/Dela
-- ⚡ Já tenho conhecimentos em Python, C, C++, Java, JavaScript, MySQL, Machine Learning, Gherkin, QA, Automações
+- ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, QA, Automações, selenium
 - ✨ Contate-me no email brendasantosilva@gmail.com
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Cpluplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
