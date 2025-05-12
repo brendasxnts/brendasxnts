@@ -1,9 +1,9 @@
 ### Oii, eu sou a Brenda!
 
 - 🌱 Estou no 6º semestre de **Ciência da Computação - UniRitter**
-- 👯 Estou em busca do meu primeiro emprego na área de T.I
+- 👯 Atualmente estagiando como suporte técnico
 - 😄 Pronomes: Ela/Dela
-- ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, QA, Automações, selenium
+- ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, QA, SeleniumLibrary
 - ✨ Contate-me no email brendasantosilva@gmail.com
 ##
 <div style="display: inline_block"><br>
