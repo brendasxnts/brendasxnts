@@ -1,6 +1,6 @@
 ### Oii, eu sou a Brenda!
 
-- 🌱 Estou no 6º semestre de **Ciência da Computação - UniRitter**
+- 🌱 Estou no 7º semestre de **Ciência da Computação - UniRitter**
 - 👯 Atualmente estagiando como suporte técnico
 - 😄 Pronomes: Ela/Dela
 - ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, Automações de testes com Selenium e Cypress, Testes Manuais
