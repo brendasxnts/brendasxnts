@@ -3,7 +3,7 @@
 - 🌱 Estou no 7º semestre de **Ciência da Computação - UniRitter**
 - 👯 Atualmente estagiando como suporte técnico
 - 😄 Pronomes: Ela/Dela
-- ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, Automações de testes com Robot Framework e Cypress, Gherkin, Typescript, React Native Testes Manuais
+- ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, Automações de testes com Robot Framework e Cypress, Typescript, React Native Testes Manuais
 - ✨ Contate-me no email brendasantosilva@gmail.com
 ##
 <div style="display: inline_block"><br>
