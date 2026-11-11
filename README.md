@@ -1,7 +1,7 @@
 ### Oii, eu sou a Brenda!
 
 - 🌱 Bacharela em **Ciência da Computação - UniRitter**
-- 👯 Atualmente estagiando como suporte técnico
+- 👯 Atualmente atuando como Analista de Suporte Técnico N2 Pleno
 - 😄 Pronomes: Ela/Dela
 - ⚡ Já tenho conhecimentos em Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Gherkin, Automações de testes com Robot Framework e Cypress, Typescript, React Native Testes Manuais
 - ✨ Contate-me no email brendasantosilva@gmail.com
